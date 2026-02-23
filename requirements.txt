@@ -1,0 +1,9 @@
+gradio
+notebook
+transformers
+langchain-chroma
+kagglehub
+pandas
+matplotlib
+seaborn
+ipywidgets
